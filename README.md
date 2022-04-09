@@ -30,7 +30,7 @@ For all the client IDs and secrets for the social login options, create a new ap
 
 For setting up nodemailer for gmail accounts, refer [this article from freecodecamp](https://www.freecodecamp.org/news/use-nodemailer-to-send-emails-from-your-node-js-server/).
 
-Obtain the paypal client ID from the paypal developer dashboard, and also obtain the Stripe payment credentials from the Stripe developer console.
+Obstain the paypal client ID from the paypal developer dashboard, and also obtain the Stripe payment credentials from the Stripe developer console.
 
 _P.S: Do star this repo after you fork it :)_
 

@@ -1,0 +1,5 @@
+cmd mongo
+cmd mongod
+npm run dev
+backend works 
+frontend only diplays js logo
